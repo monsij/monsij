@@ -1,16 +1,20 @@
-### Hi there 👋
+<!--![](https://i.ibb.co/XjHHHgL/screedbot.gif)-->
+# Hello, I'm [Monsij](https://monsij.github.io) <img height="32" width="32"  src="https://img.icons8.com/ios/50/000000/salute.png"/>  
 
-<!--
-**monsij/monsij** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Languages & Tools:**
+<br>
+<img height="32" width="32"  src="https://img.icons8.com/color/48/000000/python.png"/>
+<img height="32" width="32" src="https://img.icons8.com/color/48/000000/javascript.png"/>
+<img height="32" width="32" src="https://img.icons8.com/color/48/000000/nodejs.png"/>
+<img height="32" width="32"  src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
+<img height="32" width="32" src="https://img.icons8.com/color/48/000000/heroku.png"/>
+<img height="32" width="32" src="https://img.icons8.com/color/48/000000/travis-ci.png"/>
+<img height="32" width="32"
+src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"/>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Elements of Entropy:**
+<br>
+<img height="32" width="32"
+src="https://img.icons8.com/color/48/000000/airplane-front-view.png"/>
+<img height="32" width="32" src="https://img.icons8.com/color/48/000000/concept.png"/>
+<img height="32" width="32" src="https://img.icons8.com/color/48/000000/cycling-road.png"/>
