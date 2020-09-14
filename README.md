@@ -14,6 +14,7 @@
 <img height="32" width="32" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"/>
 <img height="32" width="32" src="https://img.icons8.com/color/48/000000/google-cloud-platform.png"/>
 
+
                                                                                   
 
 **Elements of Entropy:**
@@ -22,3 +23,4 @@
 <img height="32" width="32" src="https://img.icons8.com/color/48/000000/concept.png"/>
 <img height="32" width="32" src="https://img.icons8.com/cotton/64/000000/laptop-coding.png"/>
 <img height="32" width="32" src="https://img.icons8.com/color/48/000000/cycling-road.png"/>
+<img height="32" width="32" src="https://img.icons8.com/plasticine/100/000000/spotify.png"/>
